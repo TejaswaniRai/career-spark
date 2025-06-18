@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FC036F&center=true&vCenter=true&width=600&lines=Welcome+to+Career-Spark!;A+Modern+Job+Portal+Built+with+Tailwind+%2B+JavaScript+%2B+Vite" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FC036F&center=true&vCenter=true&width=800&lines=Welcome+to+Career-Spark!;A+Modern+Job+Portal+Built+with+Tailwind+%2B+JavaScript+%2B+Vite" alt="Typing SVG" />
 </p>
 
 <h1 align="center">💼 Career-Spark - Job Portal Website</h1>
